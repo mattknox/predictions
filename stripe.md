@@ -18,4 +18,6 @@ Which suggests that Stripe will need to have ~2.25x Braintree's margin and the e
 
 Visa's market share in 2014 was [46.2%](http://www.cardhub.com/edu/market-share-by-credit-card-network/).  
 
-Stripe will not achieve a $45B (2015 dollars) valuation by 2030.
+Stripe will not achieve a $45B (2015 dollars) valuation* by 2030.
+
+*In the event of multiple valuations, the final one is to be used, with the order of precedence as: (public) market cap, acquisition price, private equity.  As a concrete example, were Stripe to receive a venture valuation of $60B in 2028 and IPO at a $40B market cap at the end of 2030, I will only consider the market cap for proving/disproving this prediction (it is both later and higher precedence).  It's unlikely that the precedence will matter due to the "use the last" heuristic, but it's conceivable that two or more events would occur proximately.  Similarly, a down venture round overrules a previous higher venture valuation. 
